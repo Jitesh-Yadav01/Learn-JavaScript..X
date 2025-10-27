@@ -15,3 +15,11 @@ let temperature = null;
 // null => standalone value
 // undefined => variable without value
 // symbol => unique identifiers
+
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof isLoggedIn);
+console.log(typeof state);
+console.log(typeof temperature);
+console.log(typeof null);
+console.log(typeof undefined);
