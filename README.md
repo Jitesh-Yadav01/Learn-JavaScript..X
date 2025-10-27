@@ -1,2 +1,3 @@
 # Learn-JavaScript..X
-learning of javascript by chai or code
+learning of javascript 
+NOtes by X
